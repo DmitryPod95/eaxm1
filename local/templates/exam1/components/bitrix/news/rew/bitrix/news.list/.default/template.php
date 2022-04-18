@@ -36,6 +36,9 @@ $this->setFrameMode(true);
                     12 мая 2020 г.,
                     <?=$arItem["PROPERTIES"]["POSITION"]["VALUE"]?>,
                     <?=$arItem["PROPERTIES"]["COMPANY"]["VALUE"];?>
+                    <?=$arItem["PROPERTIES"]["COMPANY"]["VALUE"];?>
+                    <?=$arItem["NAME"];?>
+                    <?=$arItem["PROPERTIES"]["COMPANY"]["VALUE"];?>
                 </span>
             </div>
 
